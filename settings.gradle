@@ -1,0 +1,2 @@
+rootProject.name = "mvvm-architecture-example"
+include ':app'
